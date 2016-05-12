@@ -1,5 +1,5 @@
 class Greeter
- def initialize(who)
+ def initialize(who) //comment
  @who = who
  end
  def greet
